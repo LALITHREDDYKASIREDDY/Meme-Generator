@@ -1,2 +1,2 @@
 # Meme-Generator
-created meme generator app using Reactjs
+created a meme generator app using Reactjs
